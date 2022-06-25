@@ -1,4 +1,4 @@
-# Hi there, im David Vilarinho 👋
+## Hi there, im David Vilarinho 👋
 
 <div align="center">
   <a href="https://github.com/vilarinho23">
