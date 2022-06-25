@@ -1,4 +1,4 @@
-### Hi there, im David Vilarinho 👋
+# Hi there, im David Vilarinho 👋
 
 <!--
 **vilarinho23/vilarinho23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
